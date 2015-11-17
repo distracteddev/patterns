@@ -1,6 +1,6 @@
 ## Purpose
 
-I wanted to ensure that required local files as well as required external modules can be mocked/sutbbed globally
+I wanted to ensure that required local files as well as required external modules can be mocked/stubbed globally
 
 ## Run the test to see for yourself
 
